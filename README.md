@@ -1,16 +1,13 @@
-## Hi there 👋
+## Leandro Sammarco
 
-<!--
-**leandrosammarco-ai/leandrosammarco-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Nutricionista e Profissional de Educação Física. Professor universitário e mestrando em Educação Física (PROEF/UFRRJ). Cofundador da Sampra Saúde, em São Paulo.
 
-Here are some ideas to get you started:
+Desenvolvo skills, agentes e produtos de IA aplicados à saúde, com foco em três eixos:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Eixo | Aplicação |
+|---|---|
+| Nutrição metabólica e esportiva | Protocolos clínicos baseados em evidência e normas brasileiras (CFN, ANVISA) |
+| Produção científica | Escrita acadêmica PT-BR e normalização ABNT automatizada |
+| Operações em saúde | Gestão de clínicas, processos e produtos digitais |
+
+**Stack de IA:** Claude Code · Codex · Gemini CLI · padrão aberto Agent Skills (`SKILL.md`)
